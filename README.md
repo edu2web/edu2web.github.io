@@ -19,3 +19,4 @@ Edu２Web, bring ubiquity to education by web service.  
 # Edu2Web Pages
 * http://edu2web.com
 * http://edu2web.github.io
+* https://github.com/edu2web
