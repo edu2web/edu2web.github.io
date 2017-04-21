@@ -18,5 +18,11 @@ Edu２Web, bring ubiquity to education by web service.  
 
 # Edu2Web Pages
 * http://edu2web.com
-* https://edu2web.github.io
+
+# Repositories
 * https://github.com/edu2web
+
+# Related Pages
+* http://uislab.github.io
+* http://ubiclub.github.io
+* http://edu2web.github.io
