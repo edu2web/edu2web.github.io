@@ -4,10 +4,7 @@ Edu２Web, bring ubiquity to education by web service.  
 
 # Projects
 ## TinyWebDB & Apps
-* [tinywebdb-api](https://edu2web.github.io/tinywebdb-api/)
-* [tinywebdb-base64](https://edu2web.github.io/tinywebdb-base64/)
 * [PhotoBlog](https://edu2web.github.io/PhotoBlog/)
-* [TinyWebDB_Tester](https://edu2web.github.io/TinyWebDB_Tester/)
 
 # Web Service API
 * GooAPI
